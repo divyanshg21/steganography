@@ -40,4 +40,4 @@ def hide_text_in_image(image_path, text):
 
     print("Text hidden in the image successfully.")
 
-hide_text_in_image('input_image.png', "made by personate " * 1000)  # Change the path to your image file
+hide_text_in_image('input_image.png', "made by personate " * 100)  
